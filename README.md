@@ -56,7 +56,7 @@
 ## Methods Used
 - 머신러닝
 	- LightGBM LGBMclassifier
-	- sklearn RandomForestregressor
+	- sklearn RandomForest regressor
 - 세그먼트 도출
 	- RFM Customer Relationship Management Method
 - 시각화
