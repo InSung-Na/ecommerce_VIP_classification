@@ -51,7 +51,7 @@
 
 ## Deck of Project
 프로젝트를 정리한 PPT 자료입니다.\
-[Classify VIP segements with Ecommerce Log Data]([https://drive.google.com/file/d/1OTTa5MQkTT1NC31VO3dd2la_cBJdsw_U/view?usp=sharing])
+[Classify VIP segements with Ecommerce Log Data](https://drive.google.com/file/d/1OTTa5MQkTT1NC31VO3dd2la_cBJdsw_U/view?usp=sharing)
 
 ## Methods Used
 - 머신러닝
